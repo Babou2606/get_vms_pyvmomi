@@ -1,4 +1,4 @@
-# get_vms_pyvmomi
+# Get_vms_pyvmomi
 Find all vm on your vCenter with informations. 
 Resultst are exported on xlsx file. 
 
